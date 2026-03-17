@@ -1,0 +1,8 @@
+
+{
+  "name": "Sanjay S - Professional Portfolio",
+  "description": "A modern, high-performance professional portfolio for Sanjay S, an aspiring software developer. Features smooth animations, project filtering, dark mode, and an integrated AI assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
