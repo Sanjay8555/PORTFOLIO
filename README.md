@@ -1,10 +1,26 @@
-<div align="center">
+📌 Portfolio
 
-</div>
+This is my personal portfolio website showcasing my projects, skills, and achievements. It reflects my journey as a developer and highlights the work I have done in various technologies.
+
+🎯 Highlights
+
+Showcases projects and experience
+
+Displays technical skills
+
+Responsive and user-friendly design
+
+Easy navigation
+
+🛠️ Tech Stack
+
+HTML, CSS, JavaScript
+
+🌟 Purpose
+
+The goal of this portfolio is to present my work professionally and make it easier for recruiters and collaborators to connect with me.
 
 
-
-This contains everything you need to run your app locally.
 
 
 
